@@ -1,5 +1,5 @@
 # cms
 Cms - Client management system
-Topic
-ssss
-dfff
+Topic - пості в системе
+Group - Группы
+Tags - теги
